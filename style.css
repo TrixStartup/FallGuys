@@ -122,7 +122,7 @@ html {
   scroll-behavior: smooth;
 }
 
-.header .trix1{
+.header .logo .trix1{
     width: 150px;
   }
 
@@ -1434,7 +1434,7 @@ body{
   }
 
 @media (min-width: 322px){
-.header .trix1{
+.header .logo .trix1{
     width: 150px;
   }
 }
